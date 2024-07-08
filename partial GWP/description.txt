@@ -1,8 +1,0 @@
-Description of the ALIGNED spreadsheet calculator used to determine the partial GWP100 and GWP500 for the biorefinery and combustion scenarios:
-  - "ALIGNED-T1.3-Dynamic-CF-CC-tool.BIOREF_CC_incl.xlsx": calculations of the GWP100/500 for the biorefinery scenario using the LCIA method from Levasseur et al. (2010) and considering carbon capture during spruce growth (-1.80 kg CO2-eq/kg bark at Year 0)
-  - "ALIGNED-T1.3-Dynamic-CF-CC-tool.BIOREF_noCC.xlsx": calculations for the biorefinery using the LCIA method from Levasseur et al. (2010) and excluding carbon capture during spruce growth (0 kg CO2-eq/kg bark at Year 0)
-  - "ALIGNED-T1.3-Dynamic-CF-CC-tool.COMB_CC_incl.xlsx": calculations of the GWP100/500 for the combustion scenario using the LCIA method from Levasseur et al. (2010) and considering carbon capture during spruce growth (-1.80 kg CO2-eq/kg bark at Year 0)
-  - "ALIGNED-T1.3-Dynamic-CF-CC-tool.COMB_noCC.xlsx": calculations of the GWP100/500 for the combustion scenario using the LCIA method from Levasseur et al. (2010) and excluding carbon capture during spruce growth (0 kg CO2-eq/kg bark at Year 0)
-
-For more information on the ALIGNED guidelines, see: https://zenodo.org/records/10843259
-
