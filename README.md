@@ -11,3 +11,8 @@ This repository contains the code used to perform the **consequential environmen
 
 
 ![schematic diagram](https://github.com/user-attachments/files/16131351/fig1_schematic_diagram.pdf)
+
+
+Inline-style: 
+![alt text](https://github.com/leabrd/schematic_diagram.pdf "Logo Title Text 1")
+
