@@ -6,7 +6,7 @@ This repository contains the scripts used to perform a **consequential environme
 
 In addition, this reposiroty contains the scripts used to perform another case study in which the sugar extractives (or hydrophilic extractives) and pulp are further processed into functional films replacing packaging materials (e.g., kraft liner, PET, LDPE) on existing market. This case study is based on the same life cycle inventory as the publication above and adds a processing step to produce lignin containing microfibrillated cellulose coated with extractives. The Jupyter notebook to reproduce the study is included in the folder "LCA2". More information on the system studied are included in the main article and associated supplementary documents: 
 
-Khalili, H., Muangmeesri, S., Ramazanova, L., Braud, L., Samec, J.S., Mathew, A.P. (2025). Valorization of Spruce Bark-Derived Components into Functional Films: Lignin Containing Microfibrillated Cellulose Coated with Extractives. *Under review*.
+Khalili, H., Muangmeesri, S., Ramazanova, L., Braud, L., Samec, J.S., Mathew, A.P. (2025). Valorization of Spruce Bark-Derived Components into Functional Films: Lignin Containing Microfibrillated Cellulose Coated with Extractives. https://doi.org/10.1021/acssuschemeng.5c11166.
 
 ### Schematic diagram of the bark biorefinery:
 
